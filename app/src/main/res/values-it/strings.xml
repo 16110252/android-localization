@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Registrazione</string>
+    <string name="form">Compila il modulo per registrarti come utente</string>
+    <string name="name">Nome completo</string>
+    <string name="email">Indirizzo E-mail</string>
+    <string name="phone">Numero telefonico</string>
+    <string name="pass">Password</string>
+    <string name="check">Ho letto e accetto il termine</string>
+    <string name="bbtn_submit">Invia</string>
+    <string name="btn_language">Imposta lingua</string>
+
+</resources>

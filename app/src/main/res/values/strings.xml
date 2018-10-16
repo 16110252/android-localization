@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Registration</string>
+    <string name="form">Fill in this form to register as user</string>
+    <string name="name">Full name</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="pass">Password</string>
+    <string name="check">I have read and agree the term</string>
+    <string name="bbtn_submit">SUBMIT</string>
+    <string name="btn_language">SET LANGUAGE</string>
+</resources>
